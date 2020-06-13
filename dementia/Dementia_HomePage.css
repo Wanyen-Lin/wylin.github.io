@@ -1,0 +1,47 @@
+body{
+	background-color: #b1dbe7;
+	font-family: 'Noto Sans TC', sans-serif;
+    margin:0px;
+}
+
+.title{
+    
+    text-align: center;
+    border: black 5px;
+    width: 400px;
+   
+    border-radius:10px;
+    background-color: white;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 200px;
+}
+
+.title_1{
+    font-size: 70px;
+
+}
+header {
+ height: 50px;
+ position: fixed;
+ left:0;
+ right:0;
+ background: #fff000;
+ z-index: 200;
+}
+
+.flex-nav {
+    display: flex;justify-content: center;justify-content: space-evenly
+}
+.title_2{
+    font: 30px;
+    margin-top: -80px;
+}
+
+.picture{
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: -100px;
+
+
+}

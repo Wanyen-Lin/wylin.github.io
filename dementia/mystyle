@@ -1,0 +1,12 @@
+h1{
+color:blue;font-family: ariel;text-align:center;border-bottom: 2px dotted white;padding-bottom:  10px ; border-bottom-width: thick;}
+
+h2 {color:red;font-family: 微軟正黑體;text-align:center;
+}
+body {background-color: black; border-style: dashed; border-color: white;border-radius: 10px;border-width: 20px}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
